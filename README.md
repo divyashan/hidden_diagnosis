@@ -1,4 +1,4 @@
-Thanks for your interest in the code accompanying our work, "Machine learning reveals hidden diagnosis among underserved patients". Due to patient privacy restrictions, the data underlying the analysis cannot be made publicly available. However, we do provide access to the code used to generate the risk score and quantify diagnosis disparities. We share these materials in the interest of reproducibility and support for future efforts to analyze clinical decision-making using machine learning.
+Thanks for your interest in the code accompanying our work, "Machine learning reveals hidden diagnosis among underserved patients". Due to patient privacy restrictions, the data underlying the analysis cannot be made publicly available. However, we do provide access to the code used to generate the risk score and quantify diagnosis disparities. We share these materials in the interest of reproducibility and in support of future efforts to analyze clinical decision-making using machine learning.
 
 The code is organized as follows: 
 - `notebooks/` contains a sequence of notebooks used to produce all figures and tables provided in the paper. 
